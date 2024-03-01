@@ -12,4 +12,8 @@ I had learnt OOP and DSA (in C++) as university courses, but it is always better
 
 5 projects had to be submitted for collection of the certificate. These projects tested all the knowledge shared throughout the course. I have to say this is the easiest language to understand and work in (way easier than C++ for sure).
 
+![](python_certificate.PNG)
 
+# SQL for Data Science
+
+![](sql_for_data_science.jpeg)
